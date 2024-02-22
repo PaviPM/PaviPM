@@ -1,21 +1,13 @@
 ## Hi there 👋 I'm Pavithra
 
 Searching for a Job opportunity
--  I'm currently learning Node JS
--  How to reach me :
-<br />
 
-<!--
-**PaviPM/PaviPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on my own Project ( Dashboard ) 
+- 🌱 I’m currently learning Node JS
+- 👯 I’m looking to collaborate on frontend / backend  
+- 💬 Ask me about Tech 
+- 📫 How to reach me:
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](pavithra.manian4299@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
