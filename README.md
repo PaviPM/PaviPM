@@ -14,4 +14,6 @@ Searching for a Job opportunity
 
 ### Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+[![Pavithra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PaviPM&bg_color=151414&color=fbeffa&line=56fb59&point=fbf4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
