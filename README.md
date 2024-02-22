@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I'm Pavithra
+
+Searching for a Job opportunity
+-  I'm currently learning Node JS
+-  How to reach me :
+<br />
 
 <!--
 **PaviPM/PaviPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
